@@ -1,2 +1,2 @@
-# ActividadPAVI
-Actividad PAVI semana 16/08/2020 a 23/08/2020
+ACTIVIDAD PAV I
+Agregar un archivo README.md en el repositorio y subir esos cambios en el repositorio remoto en una rama distinta a master.
